@@ -12,15 +12,15 @@ Typeface design is a unique and important skill that profoundly affects visible 
 
 ### Course Outline
 
-**The Stroke (Weeks 1–2)**
+**The Stroke (Weeks 1–3)**
 
 Students will be introduced to the history of letterforms and understand the relationship between technology and the written form. Students will learn the basics of calligraphy to complement their theoretical knowledge with practical experience as well as study historical models. Focus will be given to conceptual ideas such as modularity and how the tools influence the form (such as the axis).
 
-**The Letter (Weeks 3–5)**
+**The Letter (Weeks 4–6)**
 
 Students will be introduced to font-making software and related concepts such as vectors, bezier curves, and multiple masters. Students will practice drawing select letters by digitizing historical scripts or sketches. Focus will be given to conceptual ideas such as spacing, counters, design axis, and variable fonts in the browser.
 
-**The Alphabet (Weeks 6–15)**
+**The Alphabet (Weeks 7–15)**
 
 Students will propose and develop a full typeface (ASCII set). Focus will be given to creating a visual system of letterforms, with the consideration of the performability of the typeface in different print and technological settings. There will be an emphasis on spatial concepts such as spacing, where students will learn that designing the negative space is just as important as designing the positive outlines. Toward the end of the unit, students will develop a typeface specimen to showcase their typeface.
 
@@ -61,22 +61,22 @@ Subject to adjustment.
 
 | Week | Class Material | Assignment 
 | ---- | -------------- | ---------------------
-|1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li><li>(Async) Demo: Carolingian Calligraphy</li>|  <li>Get class supplies </li> <li>Download license</li> <li> Install Glyphs App </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>A page of calligraphy practice</li><li>Theory of Type Design: Chapters 1–4 </li>
-|2 (2/2)|<li>Discussion: Reading</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li>| <li>Theory of Type Design: Chapters 5–8 </li> <li>Creating a 'test word' on paper based on Carolingean</li>
-|3 (2/9)|<li>Discussion: Reading</li><li>Technical Q&A</li><li>Bezier Curve Exercises</li><li>Lecture: Letterform Digitization</li><li>Demo: Intro to Glyphs App (Part 2)</li>|<li>Theory of Type Design: Chapters 9–13</li><li>Digitize test word</li><li>digitize test letter in two masters & make them compatible</li>
-|4 (2/16)|<li>Discussion: Reading</li><li>Demo: Testing out your variable font on the browser</li><li>Sketching a test word using Translation/Expansion model technique & TypeCooker recipes</li><li>Lecture: Letterform Adjustments</li><li>Demo: Exporting a variable font (related to homework assignment)</li>|<li>Theory of Type Design: Chapters 14-17</li><li>3 Typeface Proposal Drafts (that includes sketches of test words)</li>
-|5 (2/23)|<li>Lecture:Typefaces for Today</li><li>Demo: Glyphs App Efficiency (Plotting Vectors, Layers, Components, Using spacing Strings)</li><li>Discussion: Reading</li><li>(small group activity) Propose 3 Proposals and get feedback</li>|<li>Theory of Type Design: Chapters 18-21</li><li>Finish Typeface Proposal with digitized test word</li>
-|6 (3/2)|<li>Final Typeface Proposal</li><li>Demo: The Importance of Proofs & Spacing</li>|<li>Theory of Type Design: Chapters 22–24</li><li>Complete template proof</li>
-|7 (3/9)|<li>Glyphs Demo: TBD</li><li>(1:1 + async small group) Typeface Critique & Feedback</li>|<li>Complete template proof</li> 
+|1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li>|  <li>Get class supplies </li> <li>Download [Glyphs](https://glyphsapp.com) and install app & license</li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>Theory of Type Design: Chapters 1–4 </li> <li>font 'detective' sketches</li>
+|2 (2/2)|<li>Discussion: Reading</li><li>Demo: Carolingian Calligraphy</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li><li>Assignment 1: Making a Carolingian Font</li>| <li>Theory of Type Design: Chapters 5–8 </li> <li>3 best pages of calligraphy practice (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing)) </li> <li>Digitize Carolingean 'test word' character set (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing))</li>
+|3 (2/9)|<li>Discussion: Reading</li><li>Technical Q&A</li><li>Bezier Curve Exercises</li><li>Lecture: Letterform Digitization</li><li>Demo: Intro to Glyphs App (Part 2)</li>|<li>Theory of Type Design: Chapters 9–13</li> <li>Upload Assignment 1 PDF</li>
+|4 (2/16)|<li>Discussion: Reading</li><li>Sketching a test word using Translation/Expansion model technique & TypeCooker recipes</li><li>Lecture: Letterform Adjustments</li><li>Assignment 2: Making a Variable Font</li>|<li>Theory of Type Design: Chapters 14-17</li><li>digitize test letter in two masters & make them compatible</li>
+|5 (2/23)|<li>Discussion: Reading</li><li>Demo: Exporting a variable font & Testing it on the browser</li><li>Demo: Glyphs App Efficiency (Plotting Vectors, Layers, Components, Using spacing Strings)</li>|<li>Theory of Type Design: Chapters 18-21</li><li>Complete variable font w/ test word character set</li><li>Upload Assignment 2 </li>
+|6 (3/2)|<li>Lecture:Typefaces for Today</li><li>Brainstorming & TypeCooker Exercises</li><li>Demo: The Importance of Proofs & Spacing</li>|<li>3 Typeface Proposal Drafts (that includes sketches of test words)</li><li>Theory of Type Design: Chapters 22–24</li>
+|7 (3/9)|<li>Glyphs Demo: TBD</li><li>(small group activity) Propose 3 Proposals and get feedback</li>|<li>Final Typeface Proposal</li>
 | (3/16) | Spring break (no class)|
-|8 (3/23)|<li>(Small group) Typeface Critique & Feedback</li><li>Lecture: Typeface Specimens</li>|<li>Complete template proof</li>
-|9 (3/30)|<li>Glyphs Demo: TBD</li><li>(all class) Typeface Critique & Feedback</li><li>(small groups) type specimen critique & feedback</li>|<li>Complete template proof</li><li>sketch out 3 type specimen ideas</li>
-|10 (4/6)|<li>Glyphs Demo: Using smart lists (for ASCII set)</li><li>(all class) Typeface Critique & Feedback</li>|<li>Complete template proof</li><li>Progress of 1 type specimen idea</li>
-|11 (4/13)|<li>(all class) typeface critique & feedback</li>|<li>Complete template proof</li><li>Filling out type specimen</li>
-|12 (4/20)|<li>(1:1 & async group) Typeface Critique & Feedback</li>| <li>Complete template proof</li><li>Refining type specimen</li>
+|8 (3/23)|<li>(all-class) Proposal Critique & Feedback</li>|<li>Complete template proof</li>
+|9 (3/30)|<li>Glyphs Demo: TBD</li><li>(small group) Typeface Critique & Feedback</li>|<li>Complete template proof</li>
+|10 (4/6)|<li>Glyphs Demo: Using smart lists (for ASCII set)</li><li>(all class) Typeface Critique & Feedback</li><li>Lecture: Typeface Specimens</li>|<li>Complete template proof</li><li>sketch out 3 type specimen ideas</li>
+|11 (4/13)|<li>(all class) typeface critique & feedback</li>|<li>Complete template proof</li><li>Progress of 1 type specimen idea</li>
+|12 (4/20)|<li>(1:1 & async group) Typeface Critique & Feedback</li>| <li>Complete template proof</li><li>Filling out type specimen</li>
 |13 (4/27)|<li>(format TBD) Typeface Critique & Feedback</li>|<li>Complete template proof</li><li>Complete type specimen</li>
-|14 (5/4)|<li>(all class) Guest Critique & Feedback</li>|<li>Refine typeface project (w/ complete character set)</li><li>Refine type specimen</li>
-|15 (5/11)|<li>(all class) Final Presentation)</li>|
+|14 (5/4)|<li>(all class) Guest Critique & Feedback</li>|<li>Complete template proof</li><li>Refine type specimen (doubles as Final Presentation)</li>
+|15 (5/11)|<li>(all class) Final Presentation)</li>| <li>Upload Final Assignment (final typeface file & presentation)</li>
 
 ## Resources 
 
@@ -131,9 +131,9 @@ Subject to adjustment.
 #### Assessment Criteria
 
 * Active Participation / Attendance 20%
-* First Assignment (Weeks 1–2) 10% 
-* Second Assignment (Weeks 3–4) 10% 
-* Final Project (Weeks 5-14) 40%
+* First Assignment (Weeks 1–3) 10% 
+* Second Assignment (Weeks 4–5) 10% 
+* Final Project (Weeks 5-15) 40%
 * Final Project Documentation 10%
 * Total: 100%
 
