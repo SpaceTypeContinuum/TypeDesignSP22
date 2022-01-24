@@ -60,7 +60,7 @@ Subject to adjustment.
 
 
 | Week | Class Material | Assignment 
-|----|------------|---------------------|-----------
+| ---- | -------------- | ---------------------
 |1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li><li>(Async) Demo: Carolingian Calligraphy</li>|  <li>Get class supplies </li> <li>Download license</li> <li> Install Glyphs App </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>A page of calligraphy practice</li><li>Theory of Type Design: Chapters 1–4 </li>
 |2 (2/2)|<li>Discussion: Reading</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li>| <li>Theory of Type Design: Chapters 5–8 </li> <li>Creating a 'test word' on paper based on Carolingean</li>
 |3 (2/9)|<li>Discussion: Reading</li><li>Technical Q&A</li><li>Bezier Curve Exercises</li><li>Lecture: Letterform Digitization</li><li>Demo: Intro to Glyphs App (Part 2)</li>|<li>Theory of Type Design: Chapters 9–13</li><li>Digitize test word</li><li>digitize test letter in two masters & make them compatible</li>
