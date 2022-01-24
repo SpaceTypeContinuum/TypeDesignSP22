@@ -38,9 +38,9 @@ Students will propose and develop a full typeface (ASCII set). Focus will be giv
 
 #### Assignments
 
-* Assignment 1: Writing calligraphy (Weeks 1–2)
-* Assignment 2: Drawing and exporting a variable letter (Weeks 3–4)
-* Final Project: Creating a digital typeface and typeface specimen Weeks (5–14)
+* Assignment 1: Writing calligraphy (Weeks 1–3)
+* Assignment 2: Drawing and exporting a variable letter (Weeks 4–5)
+* Final Project: Creating a digital typeface and typeface specimen Weeks (6–14)
 * Final Project Documentation: Week 15
  
 
@@ -61,13 +61,13 @@ Subject to adjustment.
 
 | Week | Class Material | Assignment 
 | ---- | -------------- | ---------------------
-|1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li>|  <li>Get class supplies </li> <li>Download [Glyphs](https://glyphsapp.com) and install app & license</li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>Theory of Type Design: Chapters 1–4 </li> <li>font 'detective' sketches</li>
-|2 (2/2)|<li>Discussion: Reading</li><li>Demo: Carolingian Calligraphy</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li><li>Assignment 1: Making a Carolingian Font</li>| <li>Theory of Type Design: Chapters 5–8 </li> <li>3 best pages of calligraphy practice (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing)) </li> <li>Digitize Carolingean 'test word' character set (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing))</li>
-|3 (2/9)|<li>Discussion: Reading</li><li>Technical Q&A</li><li>Bezier Curve Exercises</li><li>Lecture: Letterform Digitization</li><li>Demo: Intro to Glyphs App (Part 2)</li>|<li>Theory of Type Design: Chapters 9–13</li> <li>Upload Assignment 1 PDF</li>
-|4 (2/16)|<li>Discussion: Reading</li><li>Sketching a test word using Translation/Expansion model technique & TypeCooker recipes</li><li>Lecture: Letterform Adjustments</li><li>Assignment 2: Making a Variable Font</li>|<li>Theory of Type Design: Chapters 14-17</li><li>digitize test letter in two masters & make them compatible</li>
-|5 (2/23)|<li>Discussion: Reading</li><li>Demo: Exporting a variable font & Testing it on the browser</li><li>Demo: Glyphs App Efficiency (Plotting Vectors, Layers, Components, Using spacing Strings)</li>|<li>Theory of Type Design: Chapters 18-21</li><li>Complete variable font w/ test word character set</li><li>Upload Assignment 2 </li>
-|6 (3/2)|<li>Lecture:Typefaces for Today</li><li>Brainstorming & TypeCooker Exercises</li><li>Demo: The Importance of Proofs & Spacing</li>|<li>3 Typeface Proposal Drafts (that includes sketches of test words)</li><li>Theory of Type Design: Chapters 22–24</li>
-|7 (3/9)|<li>Glyphs Demo: TBD</li><li>(small group activity) Propose 3 Proposals and get feedback</li>|<li>Final Typeface Proposal</li>
+|1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li><li>**Assignment 1 OUT**: Making a Carolingian Font</li>|  <li>Get class supplies </li> <li>Download [Glyphs](https://glyphsapp.com) and install app & license</li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>Theory of Type Design: Chapters 1–3 </li> <li>font 'detective' sketches</li>
+|2 (2/2)|<li>Discussion: Reading</li><li>Demo: Carolingian Calligraphy</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li>| <li>Theory of Type Design: Chapters 5–6 </li> <li>3 best pages of calligraphy practice (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing)) </li> <li>Digitize Carolingean 'test word' character set (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing))</li>
+|3 (2/9)|<li>Discussion: Reading</li><li>Technical Q&A</li><li>Bezier Curve Exercises</li><li>Lecture: Letterform Digitization</li><li>Demo: Intro to Glyphs App (Part 2)</li>|<li>Theory of Type Design: Chapters 10–12</li> <li>**Assignment 1 DUE**</li>
+|4 (2/16)|<li>Discussion: Reading</li><li>Sketching a test word using Translation/Expansion model technique & TypeCooker recipes</li><li>Lecture: Letterform Adjustments</li><li>**Assignment 2 OUT**: Making a Variable Font</li>|<li>Theory of Type Design: Chapters 13-15</li><li>digitize test letter in two masters & make them compatible</li>
+|5 (2/23)|<li>Discussion: Reading</li><li>Demo: Exporting a variable font & Testing it on the browser</li><li>Demo: Glyphs App Efficiency (Plotting Vectors, Layers, Components, Using spacing Strings)</li>|<li>Complete variable font w/ test word character set</li><li>**Assignment 2 DUE**</li>
+|6 (3/2)|<li>**Final Assignment OUT**</li><li>Lecture:Typefaces for Today</li><li>Brainstorming & TypeCooker Exercises</li><li>Demo: The Importance of Proofs & Spacing</li>|<li>Theory of Type Design: Chapters 17–20</li><li>3 Typeface Proposal Drafts (that includes sketches of test words)</li>
+|7 (3/9)|<li>Glyphs Demo: TBD</li><li>(small group activity) Propose 3 Proposals and get feedback</li>|<li>Theory of Type Design: Chapter 24</li><li>Final Typeface Proposal</li>
 | (3/16) | Spring break (no class)|
 |8 (3/23)|<li>(all-class) Proposal Critique & Feedback</li>|<li>Complete template proof</li>
 |9 (3/30)|<li>Glyphs Demo: TBD</li><li>(small group) Typeface Critique & Feedback</li>|<li>Complete template proof</li>
@@ -76,7 +76,7 @@ Subject to adjustment.
 |12 (4/20)|<li>(1:1 & async group) Typeface Critique & Feedback</li>| <li>Complete template proof</li><li>Filling out type specimen</li>
 |13 (4/27)|<li>(format TBD) Typeface Critique & Feedback</li>|<li>Complete template proof</li><li>Complete type specimen</li>
 |14 (5/4)|<li>(all class) Guest Critique & Feedback</li>|<li>Complete template proof</li><li>Refine type specimen (doubles as Final Presentation)</li>
-|15 (5/11)|<li>(all class) Final Presentation)</li>| <li>Upload Final Assignment (final typeface file & presentation)</li>
+|15 (5/11)|<li>(all class) Final Presentation)</li>| <li>**Final Assignment DUE** (final typeface file & presentation)</li>
 
 ## Resources 
 
