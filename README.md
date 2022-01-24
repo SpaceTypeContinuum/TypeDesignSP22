@@ -58,7 +58,8 @@ Students will propose and develop a full typeface (ASCII set). Focus will be giv
 
 Subject to adjustment.
 
-| Week (Date)| Class Material | Assignment |
+
+| Week (Date) | Class Material | Assignment 
 |----|------------|---------------------|-----------
 |1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li><li>(Async) Demo: Carolingian Calligraphy</li>|  <li>Get class supplies </li> <li>Download license</li> <li> Install Glyphs App </li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>A page of calligraphy practice</li><li>Theory of Type Design: Chapters 1–4 </li>
 |2 (2/2)|<li>Discussion: Reading</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li>| <li>Theory of Type Design: Chapters 5–8 </li> <li>Creating a 'test word' on paper based on Carolingean</li>
