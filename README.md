@@ -16,11 +16,11 @@ Typeface design is a unique and important skill that profoundly affects visible 
 
 Students will be introduced to the history of letterforms and understand the relationship between technology and the written form. Students will learn the basics of calligraphy to complement their theoretical knowledge with practical experience as well as study historical models. Focus will be given to conceptual ideas such as modularity and how the tools influence the form (such as the axis).
 
-**The Letter (Weeks 4–6)**
+**The Letter (Weeks 4–5)**
 
 Students will be introduced to font-making software and related concepts such as vectors, bezier curves, and multiple masters. Students will practice drawing select letters by digitizing historical scripts or sketches. Focus will be given to conceptual ideas such as spacing, counters, design axis, and variable fonts in the browser.
 
-**The Alphabet (Weeks 7–15)**
+**The Alphabet (Weeks 6–15)**
 
 Students will propose and develop a full typeface (ASCII set). Focus will be given to creating a visual system of letterforms, with the consideration of the performability of the typeface in different print and technological settings. There will be an emphasis on spatial concepts such as spacing, where students will learn that designing the negative space is just as important as designing the positive outlines. Toward the end of the unit, students will develop a typeface specimen to showcase their typeface.
 
@@ -64,8 +64,8 @@ Subject to adjustment.
 |1 (1/26)|<li>Overview of syllabus, class policy, Q&A </li>  <li>Student Introductions </li> <li> Lecture: Introduction to Type Design & Review of basic terminology</li><li>Demo: Rapid Ideation Exercise</li><li>**Assignment 1 OUT**: Making a Carolingian Font</li>|  <li>Get class supplies </li> <li>Download [Glyphs](https://glyphsapp.com) and install app & license</li><li> [Read *Counterpunch* Excerpt](readings/Counterpunch_Excerpt.pdf)</li> <li>Theory of Type Design: Chapters 1–3 </li> <li>font 'detective' sketches</li>
 |2 (2/2)|<li>Discussion: Reading</li><li>Demo: Carolingian Calligraphy</li><li>Demo: Sketching Letterforms</li><li>Demo: Overview of Glyphs App (Part 1)</li>| <li>Theory of Type Design: Chapters 5–6 </li> <li>3 best pages of calligraphy practice (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing)) </li> <li>Digitize Carolingean 'test word' character set (upload to [class drive](https://drive.google.com/drive/folders/1dIXWXGrrwisDnFMsdMm_wYISy8-oIpfI?usp=sharing))</li>
 |3 (2/9)|<li>Discussion: Reading</li><li>Technical Q&A</li><li>Bezier Curve Exercises</li><li>Lecture: Letterform Digitization</li><li>Demo: Intro to Glyphs App (Part 2)</li>|<li>Theory of Type Design: Chapters 10–12</li> <li>**Assignment 1 DUE**</li>
-|4 (2/16)|<li>Discussion: Reading</li><li>Sketching a test word using Translation/Expansion model technique & TypeCooker recipes</li><li>Lecture: Letterform Adjustments</li><li>**Assignment 2 OUT**: Making a Variable Font</li>|<li>Theory of Type Design: Chapters 13-15</li><li>digitize test letter in two masters & make them compatible</li>
-|5 (2/23)|<li>Discussion: Reading</li><li>Demo: Exporting a variable font & Testing it on the browser</li><li>Demo: Glyphs App Efficiency (Plotting Vectors, Layers, Components, Using spacing Strings)</li>|<li>Complete variable font w/ test word character set</li><li>**Assignment 2 DUE**</li>
+|4 (2/16)|<li>Discussion: Reading</li><li>Sketching a test word using Translation/Expansion model technique & TypeCooker recipes</li><li>Lecture: Letterform Adjustments</li><li>**Assignment 2 OUT**: Making a Variable Font</li>|<li>Theory of Type Design: Chapters 13-15</li><li>digitize test letter in two masters & make them compatible</li><li>TypeCooker sketches</li>
+|5 (2/23)|<li>Discussion: Reading</li><li>Demo: Exporting a variable font & Testing it on the browser</li><li>Demo: Glyphs App Efficiency (Plotting Vectors, Layers, Components, Using spacing Strings)</li>|<li>Complete variable font w/ test word character set</li><li>TypeCooker sketches</li><li>**Assignment 2 DUE**</li>
 |6 (3/2)|<li>**Final Assignment OUT**</li><li>Lecture:Typefaces for Today</li><li>Brainstorming & TypeCooker Exercises</li><li>Demo: The Importance of Proofs & Spacing</li>|<li>Theory of Type Design: Chapters 17–20</li><li>3 Typeface Proposal Drafts (that includes sketches of test words)</li>
 |7 (3/9)|<li>Glyphs Demo: TBD</li><li>(small group activity) Propose 3 Proposals and get feedback</li>|<li>Theory of Type Design: Chapter 24</li><li>Final Typeface Proposal</li>
 | (3/16) | Spring break (no class)|
