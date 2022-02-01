@@ -130,7 +130,8 @@ Subject to adjustment.
 
 #### Assessment Criteria
 
-* Active Participation / Attendance 20%
+* Attendance 15%
+* Active Participation 15%
 * First Assignment (Weeks 1–3) 10% 
 * Second Assignment (Weeks 4–5) 10% 
 * Final Project (Weeks 5-15) 40%
