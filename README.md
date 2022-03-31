@@ -70,13 +70,13 @@ Subject to adjustment.
 |7 (3/9)|<li>Glyphs Demo: TBD</li><li>(small group activity) Propose 3 Proposals and get feedback</li>|<li>Theory of Type Design: Chapter 24</li><li>Revise Typeface Proposal to one idea and upload to [class drive](https://drive.google.com/drive/folders/1yoCrb3Ic_4BPgDUCBeJJbELiBCqJ7HRx?usp=sharing) </li>
 | (3/16) | Spring break (no class)|
 |8 (3/23)|<li>(small groups) Proposal Critique & Feedback</li>|<li>Complete [template proof](https://github.com/spacetypeco/TypeDesignSP22/tree/main/templates/Week8) and upload to [class drive](https://drive.google.com/drive/folders/1nAGRpTa2r-8hwVqKoyxMoTiGpsxkeEQe?usp=sharing). Don't forget to customize for your design!</li>
-|9 (3/30)|<li>1:1 Typeface Critique & Feedback</li>|<li>Complete template proof</li>
-|10 (4/6)|<li>Glyphs Demo: Using smart lists (for ASCII set)</li><li>(all class) Typeface Critique & Feedback</li><li>Lecture: Typeface Specimens</li>|<li>Complete template proof</li><li>sketch out 3 type specimen ideas</li>
-|11 (4/13)|<li>(all class) typeface critique & feedback</li>|<li>Complete template proof</li><li>Progress of 1 type specimen idea</li>
-|12 (4/20)|<li>(1:1 & async group) Typeface Critique & Feedback</li>| <li>Complete template proof</li><li>Filling out type specimen</li>
+|9 (3/30)|<li>1:1 Typeface Critique & Feedback</li>|<li>Complete template proof with the required character set, spacing strings, and sample text ([link](https://github.com/spacetypeco/TypeDesignSP22/tree/main/templates/Week9))</li><li>Upload proof to [class drive](https://drive.google.com/drive/folders/1QO5KdRHT1Uc2lnm5yw8wtx0QPam-eEwX?usp=sharing)</li>
+|10 (4/6)|<li>Glyphs Demo: Using smart lists (for ASCII set)</li><li>Lecture: Typeface Specimens</li><li>(individual groups) Typeface Critique & Feedback</li>|<li>Complete template proof</li>
+|11 (4/13)|<li>(all class) typeface critique & feedback</li>|<li>Complete template proof</li><li>make 3 in-use mockups</li>
+|12 (4/20)|<li>(1:1 & async group) Typeface Critique & Feedback</li>| <li>Complete template proof</li><li>In-Progress draft of type specimen (minimum 3 slides/pages that include: character set, design/feature highlights, in-use mockups)</li>
 |13 (4/27)|<li>(format TBD) Typeface Critique & Feedback</li>|<li>Complete template proof</li><li>Complete type specimen</li>
 |14 (5/4)|<li>(all class) Guest Critique & Feedback</li>|<li>Complete template proof</li><li>Refine type specimen (doubles as Final Presentation)</li>
-|15 (5/11)|<li>(all class) Final Presentation)</li>| <li>**Final Assignment DUE** (final typeface file & presentation)</li>
+|15 (5/11)|<li>(all class) Final Presentation)</li>| <li>**Final Assignment DUE** (final typeface file, proof & presentation)</li>
 
 ## Resources 
 
