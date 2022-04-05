@@ -78,6 +78,10 @@ Subject to adjustment.
 |14 (5/4)|<li>(all class) Guest Critique & Feedback</li>|<li>Complete template proof</li><li>Refine type specimen (doubles as Final Presentation)</li>
 |15 (5/11)|<li>(all class) Final Presentation)</li>| <li>**Final Assignment DUE** (final typeface file, proof & presentation)</li>
 
+## Office Hours
+Office hours are available in 15-minute time slots, Fridays 3:30–5:30pm. You can book them through this [google calendar](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUlPeW1mOTA5Y0h1fGRlZmF1bHR8NjJhMGVhZDc1MTljZjExOTQ2MWYzY2FhYWU0YmQ3NzY). (Note: Please cancel the meeting if you can't make it, so the slot is released.)
+
+
 ## Resources 
 
 ### Recommended Books
