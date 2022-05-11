@@ -128,6 +128,13 @@ Office hours are available in 15-minute time slots, Fridays 3:30–5:30pm. You c
 ### Archive
 * [Herb Lubalin Study Center](http://lubalincenter.cooper.edu/)
 
+## Links for Post-Class 
+* [Type Crit Crew](https://medium.com/@juan_kafka/type-crit-crew-fdd180b881c)
+* [Selling Fonts on MyFonts](https://foundrysupport.monotype.com/hc/en-us)
+* [Listing Fonts on GoogleFonts](https://github.com/google/fonts/blob/master/CONTRIBUTING.md)
+* [Type@Cooper](http://coopertype.org/)
+
+
 -------------
 
 ## Policies
